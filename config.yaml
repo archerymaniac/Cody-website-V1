@@ -37,7 +37,7 @@ Author:
   website: yourwebsite.com
   youtube: user/username
 menu: 
-#this is the nav bar settings
+#this is the nav bar settings help 
   main:
     - name: Blog 
       url: ''
