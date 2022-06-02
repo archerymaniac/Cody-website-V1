@@ -25,18 +25,19 @@ Params:
   useHLJS: yes
   wordCount: yes
 Author:
+#this is the footer and where are the icons at the bottom are
   500px: username
   bandcamp: username
   bitbucket: username
   codepen: username
-  email: youremail@domain.com
+  email: codyleporini@icloud.com
   facebook: username
   github: username
   gitlab: username
   instagram: username
   itchio: username
   kaggle: username
-  linkedin: username
+  linkedin: https://www.linkedin.com/in/cody-leporini-699589236/
   mastodon: url
   name: Some Person
   paypal: username
@@ -53,9 +54,10 @@ Author:
   weibo: username
   xing: username
   youtube: user/username
-menu:
+menu: 
+#this is the nav bar settings
   main:
-    - name: Blog
+    - name: Blog 
       url: ''
       weight: 1
     - name: About
