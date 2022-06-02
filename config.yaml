@@ -26,13 +26,11 @@ Params:
   wordCount: yes
 Author:
 #this is the footer and where are the icons at the bottom are
-  500px: username
-  codepen: username
   email: codyleporini@icloud.com
   github: username
   instagram: username
   kaggle: username
-  linkedin: https://www.linkedin.com/in/cody-leporini-699589236/
+  linkedin:"https://www.linkedin.com/in/cody-leporini-699589236/"
   name: Cody Leporini
   website: yourwebsite.com
   youtube: user/username
