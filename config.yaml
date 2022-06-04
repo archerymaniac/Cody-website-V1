@@ -27,13 +27,11 @@ Params:
 Author:
 #this is the footer and where are the icons at the bottom are
   email: codyleporini@icloud.com
-  github: username
-  instagram: username
+  github: "https://github.com/archerymaniac"
   kaggle: username
   linkedin:"https://www.linkedin.com/in/cody-leporini-699589236/"
   name: Cody Leporini
   website: yourwebsite.com
-  youtube: user/username
 menu: 
 #this is the nav bar settings
   main:
