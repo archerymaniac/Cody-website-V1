@@ -27,9 +27,9 @@ Params:
 Author:
 #this is the footer and where are the icons at the bottom are
   email: codyleporini@icloud.com
-  github: "https://github.com/archerymaniac"
+  github: https://github.com/archerymaniac
   kaggle: username
-  linkedin: "https://www.linkedin.com/in/cody-leporini-699589236/"
+  linkedin: Cody Leporini
   name: Cody Leporini
   website: yourwebsite.com
 menu: 
